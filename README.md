@@ -12,7 +12,7 @@ Some Basic Generative Model
 - Unet
 ```
 
-### Model test Including : 
+### Model test Include : 
 
 test data use mnist
 ```
