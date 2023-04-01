@@ -14,8 +14,8 @@ Some Basic Generative Model
 
 ### Model test Including : 
 
-![image](https://github.com/shit6333/Generative_Model/blob/master/imgs/output.png =420x420)
-![image](https://github.com/shit6333/Generative_Model/blob/master/imgs/latent_space.png =420x420)
+![image](https://github.com/shit6333/Generative_Model/blob/master/imgs/output.png =200x200)
+![image](https://github.com/shit6333/Generative_Model/blob/master/imgs/latent_space.png =200x200)
 
 test data use mnist
 ```
